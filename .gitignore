@@ -1,0 +1,6 @@
+.dea
+.pytest_cache
+report
+.Ds_Store
+.git
+_pycache_
